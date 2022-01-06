@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SALEHAKY
-- 👀 I’m interested in ...
+- 👀 I’m interested in JS - C++ - solidity 
 - 🌱 I’m currently learning JS
 - 📫 'SALEH#4946 (discord)
 
